@@ -12,3 +12,6 @@ The requirements to the project went as such:
 We were given an Camera to take pictures to determine what we believe each of the objects were. Our way of communication was a website that would be able to send text commands to the website and recieve images when they come in.
 
 This Project was completed by: **Justin Bennett** (*Freshman*), **Paola Camacho** (*Freshman*), **Jessica Nguiyim** (*Sophomore*), **Humberto (Alex) Trejo Galvan** (*Freshman*), and **Kishaye Williams** (*Freshman*)
+
+Link to the website: https://vulcuns-webserver.000webhostapp.com/
+Link to our blog: http://vulcansgroup.wordpress.com/
