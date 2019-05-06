@@ -14,7 +14,7 @@ def main():
 
     DISTANCE_THRESHOLD=2
 
-    #SEEK_WALL = 0
+    ##SEEK_WALL = 0
     #ON_WALL = 1
     #wallState = SEEK_WALL
 
